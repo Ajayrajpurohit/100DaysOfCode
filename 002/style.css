@@ -1,0 +1,14 @@
+body {
+    background: #3494E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-repeat: no-repeat;
+    padding-bottom: 10%;
+}
+form {
+    width: auto;
+    margin: 0 10% 0;
+    background-color: rgba(194, 28, 78, 0.685);
+    padding: 15px;
+    border-radius: 10px;
+}
